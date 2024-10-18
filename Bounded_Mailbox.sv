@@ -15,6 +15,7 @@ class mail_box;
   endclass
   
   
+  
   class generator;
     // Randomizes the transaction's properties
     task rand_func(transaction tr);
